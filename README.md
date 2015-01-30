@@ -24,3 +24,6 @@ http://www.qcc.cuny.edu/mathCS/personal/kkim/web/index8.html
 For ics to html,
 -----
 https://zetabee.com/icaljs/
+
+https://github.com/robmonie/jquery-week-calendar
+
