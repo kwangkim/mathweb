@@ -52,8 +52,11 @@ http://danieltwc.com/2005/ical-events-plugin
 
 php
 
+
+https://github.com/johngrogg/ics-parser
 https://code.google.com/p/ics-parser/
 
+http://sabre.io/vobject/
 
 http://www.serkey.com/parsing-ical-ics-files-with-php-bderdq.html
 https://github.com/markuspoerschke/iCal
