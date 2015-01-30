@@ -49,9 +49,13 @@ http://www.serkey.com/parsing-ical-ics-files-with-php-bderdq.html
 https://github.com/markuspoerschke/iCal
 https://github.com/controlz/CalFileParser
 
+c++
+https://github.com/libical/libical
+
 ---in general
 
 http://icalvalid.wikidot.com/
+
 
 
 
