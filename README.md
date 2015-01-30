@@ -27,3 +27,17 @@ https://zetabee.com/icaljs/
 
 https://github.com/robmonie/jquery-week-calendar
 
+http://sourceforge.net/projects/jsicsparser/
+
+http://bitfish.eu/projects/jquery-ics/
+
+https://github.com/mozilla-comm/ical.js/
+
+python 
+https://github.com/collective/icalendar
+
+
+
+
+
+
