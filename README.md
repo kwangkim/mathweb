@@ -40,7 +40,7 @@ https://code.google.com/p/ijp/
 
 python 
 https://github.com/collective/icalendar
-
+https://github.com/philippbosch/ical2json
 
 java
 
