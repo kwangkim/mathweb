@@ -34,6 +34,10 @@ http://bitfish.eu/projects/jquery-ics/
 
 https://github.com/mozilla-comm/ical.js/
 
+https://www.npmjs.com/package/ical   (NODE)
+
+https://code.google.com/p/ijp/
+
 python 
 https://github.com/collective/icalendar
 
@@ -45,16 +49,20 @@ http://danieltwc.com/2005/ical-events-plugin
 
 php
 
+https://code.google.com/p/ics-parser/
+
+
 http://www.serkey.com/parsing-ical-ics-files-with-php-bderdq.html
 https://github.com/markuspoerschke/iCal
 https://github.com/controlz/CalFileParser
 
-c++
+pl
 https://github.com/libical/libical
 
 ---in general
 
 http://icalvalid.wikidot.com/
+https://github.com/stephenharris/Event-Organiser
 
 
 
