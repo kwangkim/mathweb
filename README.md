@@ -34,9 +34,12 @@ http://bitfish.eu/projects/jquery-ics/
 
 https://github.com/mozilla-comm/ical.js/
 
-https://www.npmjs.com/package/ical   (NODE)
 
 https://code.google.com/p/ijp/
+
+(Node)
+https://github.com/adrianlee44/ical2json
+https://www.npmjs.com/package/ical 
 
 python 
 https://github.com/collective/icalendar
