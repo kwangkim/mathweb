@@ -66,6 +66,7 @@ https://github.com/libical/libical
 
 http://icalvalid.wikidot.com/
 https://github.com/stephenharris/Event-Organiser
+http://sabre.io/vobject/json/
 
 
 
